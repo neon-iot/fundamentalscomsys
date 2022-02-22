@@ -1,5 +1,5 @@
 # Fundamentos de sistemas de comunicaciones
-## About this course
+## 
 Los objetivos de esta asignatura se orientan a familiarizar al alumno en conceptos asociados a sistemas de comunicaciones desde la perspectiva de señales y sistemas. La asignatura está compuesta de tres partes: caracterización de señales y sistemas pasabanda determinísticos y estocásticos (ruido), técnicas de modulación analógica y técnicas de modulación digital. Para la introducción de conceptos y evaluación de las técnicas introducidas, se adopta una perspectiva simplificada de la descripción del canal de comunicaciones (canal de ruido aditivo gaussiano).
 El curso incluye varios laboratorios donde los alumnos elaborarán sobre conceptos básicos de medición y caracterización de técnicas de modulación analógica y digital de banda estrecha y los efectos de ruido térmico, interferencia intersímbolo y otros aspectos.
 
