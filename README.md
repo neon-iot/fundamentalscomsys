@@ -21,6 +21,10 @@ El curso incluye varios laboratorios donde los alumnos elaborarán sobre concept
 *	conocimientos básicos de sistemas y representación de Fourier, 
 *	conceptos básicos de señales y/o sistemas discretos. 
 
+## Contenidos de IoT
+Una clase (modulo) donde se describen (en el nivel de sistema) aspectos funcionales de diferentes tecnologías de Internet de las cosas. En particular se incluyen conceptos de la arquitectura de LoRa y 3GPP LTE-M y NB-IoT.
+
+
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
