@@ -29,7 +29,7 @@ El curso incluye varios laboratorios donde los alumnos elaborarán sobre concept
 * Se debe aprobar 2 examens parciales de resolución de problemas y 6 laboratorios con evaluación previa.
   
 ## Contenidos de IoT
-* Se incluye una clase adicional donde se describen (en el nivel de sistema) aspectos funcionales de diferentes tecnologías de Internet de las cosas. En particular se incluyen conceptos de la arquitectura de LoRa y 3GPP LTE-M y NB-IoT.
+* En el marco del proyecto Neon se desarrolló material relacionado a la Internet de las Cosas. Como resultado de este trabajo, se incluye una [clase adicional](https://github.com/neon-iot/fundamentalscomsys/files/11952492/Clase.21.-.IoT.-.Centrada.en.el.usuario.LoRa.vs.Centrada.en.el.servicio.NB-IoT.pdf) donde se describen (en el nivel de sistema) aspectos funcionales de diferentes tecnologías de Internet de las cosas. En particular se incluyen conceptos de la arquitectura de LoRa y 3GPP LTE-M y NB-IoT.
 
 
 
